@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="ja">
 <head>
     <meta charset="UTF-8">
@@ -131,6 +131,7 @@
     <section class="container">
         <img src="https://via.placeholder.com/600x400?text=Investment+Community" alt="投資コミュニティのスクリーンショット" class="hero-image">
     </section>
+
 <section class="testimonials container">
         <h3>参加者の声</h3>
         <div class="testimonial">
